@@ -12,7 +12,7 @@ body{
 .section-style h1 {
     font-weight: bolder;
     text-transform: uppercase;
-    font-size: 50px;
+    font-size: 60px;
 }
 .first-span{
    color: orange; 
@@ -45,4 +45,53 @@ body{
     margin: 0px;
     padding-top: 50px;
     padding-bottom:-12px;
+}
+.third-section{
+    margin-top:100px;
+}
+.Recipes{
+    text-align:center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.recipes-img{
+    width: 300px;
+    height: 200px;
+}
+.flexible-container{
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.food{
+    box-shadow: 10px 10px 10px rgb(14, 13, 13);
+    margin-left: 5%;
+    margin-right:5%;
+    padding-right:25px;
+    padding-left:25px;
+    padding-top:25px;
+    border-radius: 10px;
+    width: 70%;
+    background-color: brown;
+}
+.food h2{
+    text-align:center;
+}
+.social-media{
+    
+    padding-right: 120px;
+    padding-left: 120px;
+    margin: 70px auto;
+}
+.social-media h2{
+    font-size: 40px;
+}
+.last-box{
+    margin-top: 120px;
+    background-image: linear-gradient(red, orange);
+    box-shadow: 10px 10px 10px rgb(14, 13, 13);
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius:20px;
+    
 }
