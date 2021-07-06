@@ -127,6 +127,7 @@ ul li a:hover{
 }
 .img-footer{
     width: 100px;
+    padding-left: 30px;
 }
 .footer-div{
     padding-left: 20%;
@@ -135,5 +136,5 @@ ul li a:hover{
     text-align:center;
 }
 .footer-div p{
-        text-align:center;
+    text-align:justify;
 }
